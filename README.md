@@ -14,3 +14,5 @@ sudo apt-get install libsystemd-dev
 ```
 gcc -o service service.c -lsystemd
 ```
+
+#### [Additional information](https://kurotych.com/post/systemd_service_listener) 
